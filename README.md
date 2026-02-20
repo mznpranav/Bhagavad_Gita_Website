@@ -4,6 +4,7 @@
 
 Developed a responsive website that displays inspirational quotes from the Bhagavad Gita. The platform allows users to read, explore, and reflect on timeless spiritual teachings through a clean and user-friendly interface.
 
+Website link - https://loquacious-kheer-ed3866.netlify.app/
 ---
 
 ## Features
